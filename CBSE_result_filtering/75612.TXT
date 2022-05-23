@@ -1,0 +1,156 @@
+24615324   M AKSHAI K S                                          301     041     042     043     044              A1 A1 A1    PASS                      
+                                                                 090  B1 066  C2 084  B1 072  C2 072  C2        
+24615325   M AKSHEY GOPAKUMAR                                    301     041     042     043     044              A2 A1 A2    PASS                      
+                                                                 095  A1 065  C2 084  B1 083  B1 076  C1        
+24615326   M ALBERT SIBY                                         301     041     042     043     044              A1 A1 A1    PASS                      
+                                                                 098  A1 092  A2 096  A1 095  A1 096  A1        
+24615327   M ALDIN THOMAS KAYYALACKAL                            301     030     054     055     065              A2 A2 A2    PASS                      
+                                                                 085  B2 079  B1 087  B1 084  A2 078  C2        
+24615328   M ALEN JAISON                                         301     030     041     054     055              A2 A1 A1    PASS                      
+                                                                 097  A1 093  A1 078  B2 097  A1 094  A1        
+24615329   M ALEN JOY                                            301     041     042     043     083              A2 A1 A2    PASS                      
+                                                                 089  B1 060  D1 076  C1 067  D1 075  D1        
+24615330   M ALWIN                                               301     042     043     044     065              A1 A1 A1    PASS                      
+                                                                 095  A1 079  B2 069  C2 086  B2 092  A2        
+24615331   M ALWIN PAUL BIJU                                     301     041     042     043     044              A2 A1 B1    PASS                      
+                                                                 093  A2 060  D1 078  B2 067  D1 075  C2        
+24615332   M ANUGRAH THOMAS JOSEPH                               301     030     054     055     065              B1 A2 B1    PASS                      
+                                                                 087  B1 073  B2 084  B1 079  B1 079  C2        
+24615333   M ASHIN PRAKASH                                       301     042     043     044     065              A2 A1 A2    PASS                      
+                                                                 095  A1 084  B1 073  C2 079  C1 091  B1        
+24615334   M BENISON S PULLUKATTU                                301     041     042     043     044              A1 A2 A1    PASS                      
+                                                                 098  A1 081  B1 093  A2 081  B2 091  B1        
+24615335   M BENJAMIN J WALANJATTIL                              301     030     041     054     055              A1 A1 A2    PASS                      
+                                                                 089  B1 091  A2 061  C2 094  A2 091  A1        
+24615336   M BIBIN  TOMY                                         301     041     042     043     083              A2 A1 A2    PASS                      
+                                                                 097  A1 073  C1 088  A2 084  B1 080  C2        
+24615337   M CHRIS JOE THEKKUMKAL                                301     041     042     043     044              A1 A1 B1    PASS                      
+                                                                 092  A2 057  D1 074  C1 067  D1 072  C2        
+24615338   M CLIN TOM KALLAMMAKKAL                               301     030     054     055     065              A1 A2 B1    PASS                      
+                                                                 091  B1 075  B2 080  B2 076  B1 077  C2        
+24615339   M DEEPAK K S                                          301     041     042     043     083              A2 A1 A2    PASS                      
+                                                                 090  B1 057  D1 076  C1 066  D1 075  D1        
+24615340   M EMMANUEL JOHNY                                      301     041     042     043     044              A1 A1 A1    PASS                      
+                                                                 098  A1 077  B2 087  B1 079  B2 086  B2        
+24615341   M FARZEEN MOHAMMED ANSAR                              301     030     054     055     065              A2 A1 A1    PASS                      
+                                                                 091  B1 086  A2 094  A2 091  A1 089  B1        
+24615342   M FREDY BINOY                                         301     041     042     043     083              A1 A1 A1    PASS                      
+                                                                 097  A1 080  B1 089  A2 081  B2 085  C1        
+24615343   M GEORGIN XAVIER                                      301     041     042     043     044              A1 A1 B1    PASS                      
+                                                                 097  A1 058  D1 077  C1 071  C2 077  C1        
+24615344   M GEORWIN CYRIAC                                      301     030     054     055     065              A1 A1 A2    PASS                      
+                                                                 087  B1 091  A2 091  A2 086  A2 086  B2        
+24615345   M GOVIND BINU                                         301     030     054     055     065              A1 A1 A1    PASS                      
+                                                                 089  B1 082  B1 092  A2 087  A2 089  B1        
+24615346   M GOVIND HARI                                         301     041     042     043     044              A2 A2 B1    PASS                      
+                                                                 092  A2 057  D1 074  C1 066  D1 062  D1        
+24615347   M JEPHIN MUDAKKALIL CYRIAC                            301     030     054     055     065              B1 A2 B1    PASS                      
+                                                                 082  C1 078  B2 081  B2 080  B1 083  C1        
+24615348   M JESAL SANI                                          301     041     042     043     083              A2 A1 A2    PASS                      
+                                                                 094  A2 066  C2 084  B1 076  C1 075  D1        
+24615349   M JESLIN LUKE GEORGE                                  301     030     054     055     065              A2 A1 A2    PASS                      
+                                                                 090  B1 080  B1 088  B1 086  A2 088  B2        
+24615350   M JESTIN BABU                                         301     030     054     055     065              B1 A2 B1    PASS                      
+                                                                 089  B1 080  B1 084  B1 085  A2 087  B2        
+24615351   M JEVIN K MATHEW                                      301     041     042     043     044              A2 A1 B1    PASS                      
+                                                                 086  B2 055  D1 077  C1 067  D1 063  D1        
+24615352   M JOEL BINU                                           301     030     054     055     065              A1 A1 A1    PASS                      
+                                                                 097  A1 097  A1 097  A1 093  A1 094  A2        
+24615353   M JOEL GEORGE                                         301     041     042     043     044              A1 A1 A1    PASS                      
+                                                                 097  A1 096  A1 097  A1 096  A1 096  A1        
+24615354   M JOSWIN EMMANUEL                                     301     041     042     043     083              A1 A1 A1    PASS                      
+                                                                 097  A1 096  A1 096  A1 091  A2 096  A1        
+24615355   M LEON JAISON V                                       301     041     042     043     044              A1 A1 A1    PASS                      
+                                                                 093  A2 080  B1 084  B1 082  B2 080  C1        
+24615356   M LOUIS SABU                                          301     030     041     054     055              A2 A1 A2    PASS                      
+                                                                 093  A2 086  A2 057  D1 091  A2 085  A2        
+24615357   M REO BENN DOMINIC                                    301     042     043     044     065              A2 A2 A1    PASS                      
+                                                                 092  A2 076  C1 076  C1 083  B2 083  C1        
+24615358   M SANJU JOSEPH CHACKO                                 301     030     054     055     065              A2 A1 A2    PASS                      
+                                                                 092  A2 090  A2 093  A2 087  A2 093  A2        
+24615359   M SEION SHOJI ANTONY                                  301     041     042     043     083              A2 A1 A2    PASS                      
+                                                                 096  A1 066  C2 078  B2 075  C1 080  C2        
+24615360   M SUBIN SAJU                                          301     042     043     044     065              A2 A1 A2    PASS                      
+                                                                 085  B2 074  C1 066  D1 063  D1 076  C2        
+24615361   M TOM SONY                                            301     030     054     055     065              A2 A2 B1    PASS                      
+                                                                 090  B1 080  B1 084  B1 084  A2 090  B1        
+24615362   M VIGHNESH V NAIR                                     301     030     041     054     055              A1 A1 A1    PASS                      
+                                                                 097  A1 098  A1 087  A2 098  A1 097  A1        
+24615363   F ALEXA THERESA JAISON                                301     041     042     043     044              A1 A1 A1    PASS                      
+                                                                 099  A1 091  A2 096  A1 091  A2 096  A1        
+24615364   F ALIN SIVI                                           301     041     042     043     044              A1 A1 A2    PASS                      
+                                                                 097  A1 072  C1 085  B1 070  C2 079  C1        
+24615365   F AMI MARIA MANUEL                                    301     041     042     043     044              B1 A2 B1    PASS                      
+                                                                 097  A1 060  D1 077  C1 068  C2 064  D1        
+24615366   F AMRUTHA K R                                         301     041     042     043     044              A1 A1 A1    PASS                      
+                                                                 097  A1 080  B1 086  B1 083  B1 091  B1        
+24615367   F AMRUTHA SAJI                                        301     030     041     054     055              A1 A1 A2    PASS                      
+                                                                 097  A1 092  A2 060  D1 095  A1 091  A1        
+24615368   F ANAINA ASHA BINU                                    301     042     043     044     065              A1 A1 A1    PASS                      
+                                                                 098  A1 096  A1 086  B1 096  A1 097  A1        
+24615369   F ANEESA ANNA DIJESH                                  301     030     041     054     055              A1 A1 A1    PASS                      
+                                                                 097  A1 097  A1 081  B1 098  A1 095  A1        
+24615370   F ANGEL ANNA ABRAHAM                                  301     030     054     055     065              A2 A2 A2    PASS                      
+                                                                 093  A2 084  B1 086  B1 084  A2 084  B2        
+24615371   F ANJANA M                                            301     030     041     054     055              A1 A1 A1    PASS                      
+                                                                 099  A1 099  A1 086  B1 098  A1 096  A1        
+24615372   F ANN MARIA JOHN                                      301     042     043     044     065              A1 A2 A2    PASS                      
+                                                                 090  B1 076  C1 066  D1 062  D1 086  B2        
+24615373   F ANN MARIA THOMAS                                    301     030     041     054     055              A1 A1 A1    PASS                      
+                                                                 098  A1 097  A1 081  B1 097  A1 094  A1        
+24615374   F ANN MARIYA VARGHESE                                 301     041     042     043     044              A2 A2 A2    PASS                      
+                                                                 097  A1 064  C2 084  B1 066  D1 074  C2        
+24615375   F ASHNA K JAIMON                                      301     041     042     043     044              A1 A1 A1    PASS                      
+                                                                 097  A1 076  B2 085  B1 079  B2 085  B2        
+24615376   F C  AMRITAPRIYA                                      301     041     042     043     044              A1 A1 A1    PASS                      
+                                                                 097  A1 092  A2 096  A1 086  B1 095  A2        
+24615377   F CHRISTY SEBASTIAN                                   301     030     054     055     065              A2 A1 A2    PASS                      
+                                                                 090  B1 079  B1 086  B1 085  A2 086  B2        
+24615378   F DONA MARY SHAJU                                     301     041     042     043     044              A2 A2 A2    PASS                      
+                                                                 090  B1 071  C1 076  C1 066  D1 084  B2        
+24615379   F FATHIMA NOORA                                       301     030     041     054     055              A1 A1 A1    PASS                      
+                                                                 097  A1 090  A2 078  B2 091  A2 093  A1        
+24615380   F GOWRI K A                                           301     041     042     043     083              A2 A2 A2    PASS                      
+                                                                 096  A1 060  D1 078  B2 065  D1 080  C2        
+24615381   F JANVI SAJEEV                                        301     042     043     044     065              A1 A2 A1    PASS                      
+                                                                 097  A1 084  B1 066  D1 084  B2 090  B1        
+24615382   F JOAN MARIA BINOY                                    301     042     043     044     065              A2 A1 A2    PASS                      
+                                                                 097  A1 081  B2 068  C2 076  C1 085  B2        
+24615383   F KEZIA ELSA SIJU                                     301     041     042     043     044              A1 A1 A1    PASS                      
+                                                                 098  A1 084  B1 087  B1 078  C1 091  B1        
+24615384   F KRIPA EMMANUEL                                      301     041     042     043     044              A1 A1 A2    PASS                      
+                                                                 097  A1 069  C1 084  B1 078  C1 086  B2        
+24615385   F LAKSHMI NANDANA V                                   301     041     042     043     044              A1 A1 A1    PASS                      
+                                                                 097  A1 091  A2 096  A1 096  A1 097  A1        
+24615386   F MARITA JOSHY                                        301     042     043     044     065              A1 A1 A1    PASS                      
+                                                                 096  A1 084  B1 066  D1 084  B2 088  B2        
+24615387   F MARIYA THERES JOSEPH                                301     041     042     043     044              A1 A1 A2    PASS                      
+                                                                 098  A1 078  B2 084  B1 078  C1 084  B2        
+24615388   F MEERA K A                                           301     041     042     043     083              A2 A2 B1    PASS                      
+                                                                 092  A2 055  D1 078  B2 065  D1 074  D1        
+24615389   F MINNU SHAJI                                         301     041     042     043     083              A1 A1 A1    PASS                      
+                                                                 097  A1 091  A2 097  A1 096  A1 095  A1        
+24615390   F NANDANA  R THAMPI                                   301     030     041     054     055              A1 A1 A1    PASS                      
+                                                                 097  A1 097  A1 066  C2 097  A1 094  A1        
+24615391   F NANDANA S KUMAR                                     301     041     042     043     044              A2 A1 B1    PASS                      
+                                                                 081  C1 056  D1 071  C2 065  D1 064  D1        
+24615392   F NAYANTHARA MANOJ                                    301     030     054     055     065              A2 A2 B1    PASS                      
+                                                                 095  A1 079  B1 090  A2 080  B1 077  C2        
+24615393   F RELEN BOBY                                          301     041     042     043     044              A1 A1 A1    PASS                      
+                                                                 097  A1 080  B1 086  B1 085  B1 088  B1        
+24615394   F SHEEN MARIA MANUEL                                  301     041     042     043     083              A1 A1 A2    PASS                      
+                                                                 091  B1 061  C2 077  C1 066  D1 085  C1        
+24615395   F SIYAN MARIA JAMES                                   301     041     042     043     044              A2 A1 B1    PASS                      
+                                                                 095  A1 061  C2 075  C1 066  D1 065  D1        
+24615396   F SNEHA ROSE MATHEW                                   301     042     043     044     065              A1 A2 A1    PASS                      
+                                                                 090  B1 075  C1 066  D1 075  C2 081  C1        
+24615397   F STEBY A SIBY                                        301     041     042     043     044              A1 A1 A1    PASS                      
+                                                                 098  A1 096  A1 096  A1 097  A1 098  A1        
+24615398   F TESSA RAJESH                                        301     041     042     043     044              A2 A2 B1    PASS                      
+                                                                 097  A1 061  C2 077  C1 065  D1 082  B2        
+24615399   F THERESA BENNY                                       301     042     043     044     065              A2 A1 A2    PASS                      
+                                                                 097  A1 085  B1 066  D1 079  C1 085  B2        
+24615400   F VARSHA ANN SAJI                                     301     042     043     044     065              A2 A1 A2    PASS                      
+                                                                 090  B1 079  B2 065  D1 075  C2 082  C1        
+24615401   F VISHNUPRIYA V                                       301     030     054     055     065              A2 A2 B1    PASS                      
+                                                                 085  B2 074  B2 085  B1 079  B1 077  C2  
