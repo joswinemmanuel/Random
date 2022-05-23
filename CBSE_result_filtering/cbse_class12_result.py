@@ -13,7 +13,7 @@ def all_stud_mark():
 
 def best_mark():        
     import mysql.connector
-    mydb=mysql.connector.connect(host='localhost',user='root',password='joswin',database='plus2marks_all'
+    mydb=mysql.connector.connect(host='localhost',user='root',password='',database='plus2marks_all'
                                  ,auth_plugin='mysql_native_password')
     mycur=mydb.cursor()
     mycur.execute('select name,m1+m2+m3+m4+m5 as total,m1,m2,m3,m4,m5,m1+m2+m3+m4+m5 from bio_math union select name,m1+m2+m3+m4+m5 as total,m1,m2,m3,m4,m5,m1+m2+m3+m4+m5 from cs order by total desc')
@@ -24,7 +24,7 @@ def best_mark():
 
 def any_sub_write():
     import mysql.connector
-    mydb=mysql.connector.connect(host='localhost',user='root',password='joswin',database='plus2marks_all'
+    mydb=mysql.connector.connect(host='localhost',user='root',password='',database='plus2marks_all'
                                  ,auth_plugin='mysql_native_password')
     mycur=mydb.cursor()
     f=open('75612.TXT','r')
