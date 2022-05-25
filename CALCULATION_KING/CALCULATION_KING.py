@@ -122,7 +122,7 @@ print()
 
 # print('HALL OF FAME'.center(33))
 # mydb=mysql.connector.connect(host='localhost',user='root'
-#                              ,password='joswin',database='addition_king'
+#                              ,password='',database='addition_king'
 #                              ,auth_plugin='mysql_native_password')
 # mycur=mydb.cursor()
 # mycur.execute(f"insert into hiscore values('{name}',{points});")
